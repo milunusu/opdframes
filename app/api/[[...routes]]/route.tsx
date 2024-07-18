@@ -22,7 +22,7 @@ app.frame('/start', (c) => {
   const fruit = inputText || buttonValue
   return c.res({
     action:'/second',
-    image: ('https://indigo-advisory-gorilla-502.mypinata.cloud/ipfs/QmVuJU2YPvTqo1AdpZEF62s1ej5JGTTVtmBhUwThYf76F3'),
+    image: ('https://24ai.tech/en/wp-content/uploads/sites/3/2023/10/01_product_1_sdelat-izobrazhenie-1-1-6-scaled.jpg'),
     
            
     intents: [
@@ -38,7 +38,7 @@ app.frame('/second', (c) => {
   const fruit = inputText || buttonValue
   return c.res({
     action:'/third',
-    image: ('https://indigo-advisory-gorilla-502.mypinata.cloud/ipfs/QmfBEXaiyfknq8sxsqbmRkPzHMKGZTjnFaBmo7Jdsd9xVv'),
+    image: ('https://24ai.tech/en/wp-content/uploads/sites/3/2023/10/01_product_1_sdelat-izobrazhenie-1-1-6-scaled.jpg'),
     
            
     intents: [
@@ -55,7 +55,7 @@ app.frame('/third', (c) => {
   const fruit = inputText || buttonValue
   return c.res({
     action:'/start',
-    image: ('https://indigo-advisory-gorilla-502.mypinata.cloud/ipfs/QmP5moAXx8RthGUbxgnbhHV4Y4GvkdgCq9XVGTcgndi6Rx'),
+    image: ('https://24ai.tech/en/wp-content/uploads/sites/3/2023/10/01_product_1_sdelat-izobrazhenie-1-1-6-scaled.jpg'),
     
            
     intents: [
